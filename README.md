@@ -49,7 +49,12 @@
 
 <br>
 
-<b>🌾 Weather API Dashboard</b> <i>(in progress)</i>  
+<b>🌾 Weather API Dashboard</b>  
+<i>An interactive Power BI dashboard that visualizes real-time weather forecasts and environmental conditions for major Indian cities using WeatherAPI integration. This comprehensive solution provides 7-day forecasts with hourly breakdowns, air quality monitoring, and UV index tracking.</i><br>
+🔗 <a href="https://github.com/Anurag-1812?tab=repositories">Repositories</a>  
+
+
+<b> Next Dashboard  (In Progress)</b>  
 
   </tr>
 </table>
