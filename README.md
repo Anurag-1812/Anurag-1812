@@ -64,7 +64,6 @@
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Anurag-1812&show_icons=true&theme=tokyonight" alt="Anurag's GitHub stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag-1812&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
 </p>
 
 <img src="https://github.com/Anurag-1812/Anurag-1812/blob/main/line.gif" width="100%"/>
