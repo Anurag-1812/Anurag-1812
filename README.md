@@ -53,8 +53,14 @@
 <i>An interactive Power BI dashboard that visualizes real-time weather forecasts and environmental conditions for major Indian cities using WeatherAPI integration. This comprehensive solution provides 7-day forecasts with hourly breakdowns, air quality monitoring, and UV index tracking.</i><br>
 🔗 <a href="https://github.com/Anurag-1812?tab=repositories">Repositories</a>  
 
+<b>🏦 Bank Loan Analysis</b>  
+<i>End-to-end Bank Loan Analysis project using **MS SQL Server, Power BI, and CSV data**.  
+Built an interactive dashboard to provide insights into **loan performance, risk assessment, and borrower trends**.  
+</i><br>
+🔗 <a href="https://github.com/Anurag-1812/Bank_Loan_Analysis">Repositories</a>  
 
-<b> Next Dashboard  (In Progress)</b>  
+
+<b> Next Project  (In Progress)</b>  
 
   </tr>
 </table>
